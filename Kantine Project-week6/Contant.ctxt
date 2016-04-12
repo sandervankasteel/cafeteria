@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=persoon
+comment0.target=void\ setOwner(Persoon)
+comment1.params=
+comment1.target=Persoon\ getOwner()
+comment2.params=tebetalen
+comment2.target=void\ betaal(double)
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=kassaRij
+comment0.target=Kassa(KassaRij)
+comment1.params=persoon
+comment1.target=void\ afrekenen(Persoon)
+comment1.text=\n\ Rekent\ een\ persoon\ af\ uit\ de\ rij.\n
+comment2.params=
+comment2.target=void\ iedereenAfrekenen()
+comment2.text=\n\ Gooit\ de\ hele\ rij\ aan\ mensen\ leeg\ en\ handeld\ hun\ aankopen\ af.\n
+comment3.params=eersteXPersonen
+comment3.target=java.util.LinkedList\ rekenAf(int)
+comment3.text=\n\ Rekent\ de\ hoeveel\ mensen\ af\ die\ je\ meegeeft\ aan\ eersteXPersonen.\ De\ mensen\ worden\ vervolgens\ uit\ de\ rij\ verwijderd.\n\ @param\ eersteXPersonen\ De\ hoeveel\ mensen\ wiens\ artikelen\ moeten\ worden\ afgerekend.\n
+comment4.params=
+comment4.target=int\ aantalArtikelen()
+comment5.params=
+comment5.target=double\ aantalMoneys()
+comment6.params=
+comment6.target=void\ resetKassa()
+comment7.params=afrekenedPersoon
+comment7.target=double\ getTotaalPrijs(Persoon)
+comment8.params=afrekenedPersoon
+comment8.target=int\ getAantalArtikelen(Persoon)
+comment9.params=
+comment9.target=KassaRij\ getKassaRij()
+numComments=10

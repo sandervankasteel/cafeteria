@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Administratie()
+comment1.params=aantal
+comment1.target=double\ berekenGemiddeldAantal(int[])
+comment2.params=omzet
+comment2.target=double\ berekenGemiddeldeOmzet(double[])
+comment3.params=omzet
+comment3.target=double[]\ berekenDagOmzet(double[])
+numComments=4

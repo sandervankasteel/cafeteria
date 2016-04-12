@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=saldo
+comment0.target=void\ setSaldo(double)
+comment1.params=
+comment1.target=Persoon\ getOwner()
+comment2.params=persoon
+comment2.target=void\ setOwner(Persoon)
+comment3.params=
+comment3.target=double\ getSaldo()
+comment4.params=
+comment4.target=Persoon\ getPersoon()
+comment5.params=tebetalen
+comment5.target=void\ betaal(double)
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=afkorting\ afdeling\ bsn\ voornaam\ achternaam\ jaar\ maand\ dag\ geslacht
+comment0.target=Docent(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ char)
+comment0.text=\n\ Constructor\n
+comment1.params=
+comment1.target=Docent()
+comment10.params=
+comment10.target=void\ drukAf()
+comment2.params=
+comment2.target=boolean\ heeftMaximum()
+comment3.params=
+comment3.target=double\ geefMaximum()
+comment4.params=
+comment4.target=double\ geefKortingsPercentage()
+comment5.params=
+comment5.target=boolean\ getKortingsKaart()
+comment6.params=afkorting
+comment6.target=void\ setAfkorting(java.lang.String)
+comment7.params=afdeling
+comment7.target=void\ setAfdeling(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getAfkorting()
+comment9.params=
+comment9.target=java.lang.String\ getAfdeling()
+numComments=11

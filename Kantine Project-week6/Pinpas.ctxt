@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=kredietlimiet
+comment0.target=void\ setKreditLimiet(double)
+comment1.params=persoon
+comment1.target=void\ setOwner(Persoon)
+comment2.params=
+comment2.target=Persoon\ getOwner()
+comment3.params=tebetalen
+comment3.target=void\ betaal(double)
+comment3.text=\ methode\ om\ betalingen\ af\ te\ handelen\n\ @param\ tebetalen\n\ @return\ Boolean\ om\ te\ kijken\ of\ er\ voldoende\ saldo\ is\n
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=artikelnaam\ prijs\ hoeveelheid
+comment0.target=KantineAanbod(java.lang.String[],\ double[],\ int[])
+comment0.text=\n\ Constructor.\ Het\ eerste\ argument\ is\ een\ lijst\ met\ artikelnamen,\n\ het\ tweede\ argument\ is\ een\ lijst\ met\ prijzen\ en\ het\ derde\ argument\n\ is\ een\ lijst\ met\ hoeveelheden.\ Let\ op\:\ de\ dimensies\ van\ de\ drie\ arrays\n\ moeten\ wel\ gelijk\ zijn\!\n
+comment1.params=productnaam
+comment1.target=java.util.ArrayList\ getArrayList(java.lang.String)
+comment1.text=\n\ Private\ methode\ om\ de\ lijst\ van\ artikelen\ te\ krijgen\ op\ basis\ van\ de\ \ \ \ \n\ naam\ van\ het\ artikel.\ Retourneert\ null\ als\ artikel\ niet\ bestaat.\n
+comment2.params=stapel
+comment2.target=Artikel\ getArtikel(java.util.ArrayList)
+comment2.text=\n\ Private\ methode\ om\ een\ Artikel\ van\ de\ stapel\ artikelen\ af\ te\ pakken.\ \n\ Retourneert\ null\ als\ de\ stapel\ leeg\ is.\n
+comment3.params=naam
+comment3.target=Artikel\ getArtikel(java.lang.String)
+comment3.text=\n\ Publieke\ methode\ om\ een\ artikel\ via\ naam\ van\ de\ stapel\ te\ pakken.\n\ Retouneert\ null\ als\ artikel\ niet\ bestaat\ of\ niet\ op\ voorraad\ is.\n\ @param\ naam\ (van\ artikel)\n\ @return\ artikel\ (of\ null)\n
+comment4.params=
+comment4.target=java.util.HashMap\ getVoorraad()
+comment5.params=min
+comment5.target=void\ vulAanbod(int)
+comment5.text=\n\ Vult\ de\ voorraad\ aan\ tot\ het\ begin\ niveau\ als\ deze\ beneden\ het\ minimum\ niveau\ is\ gekomen\n\ @param\ minimale\ voorraad\n
+numComments=6
